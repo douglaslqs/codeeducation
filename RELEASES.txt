@@ -1,1 +1,3 @@
 Arquivo adicionado para gerar o release 0.1.0
+
+Linha adicionada para gerar o release 0.1.1
